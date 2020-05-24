@@ -1,0 +1,7 @@
+server:
+  port: 7000
+
+hdfs:
+  key: fs.default.name
+  path: hdfs://master:8000
+  userName: dev
